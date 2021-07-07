@@ -1,6 +1,6 @@
 # Unit 5 - Financial Planning
 
-This homework assignment can be found in the github repository 'Week 5 HW' -> 'Week5 API HW' -> 'financial-planner.ipynb'.
+This homework assignment can be found in the github repository 'Week 5 HW' -> 'Week5 API HW' -> 'Starter Code' -> 'financial-planner.ipynb'.
 
 Below is the activity prompt provided by the instructor. In summary, we were to run a series of analyses on a retirement portfolio and subsequent Monte Carlo simulations pertaining to data imported via API. 
 
